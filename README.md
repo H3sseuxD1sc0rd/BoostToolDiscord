@@ -1,5 +1,5 @@
 # BoostToolDiscord
-BoostToolDiscord by adolf#0001
+BoostToolDiscord
 
 Salut ! Si vous êtes ici c'est pour je penses que vous être interessé par le BoostTool. Il est tout simple a utiliser et très fast a boost.
 
@@ -14,5 +14,3 @@ Voici étape par étape pour utilisé ce magnifique tool :
 3/mettez QUE LES TOKENS sur le document "3m_tokens.txt" et sauvegardez (pas sur "1m_tokens.txt" car sa ne marchera pas"
 
 4/tout est fini ! reste plus a lancer "boosting.py" et suivre les autres instructions
-
-si vous rencontrez un problème, merci d'envoyez un message discord a adolf#0001
